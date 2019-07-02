@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-07-02T22:39:15.974+01:00
-  initializedAtString: 2019-07-02T22:34:24.070+01:00
+  lastUpdatedAtString: 2019-07-03T00:04:08.284+01:00
+  initializedAtString: 2019-07-03T00:04:08.284+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/martipello/quantuum_defense.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/martipello/quantuum_defense.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/martipello/quantuum_defense.git
