@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 504, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 32
+  controlID: 57
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -152,7 +152,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 33
+  controlID: 58
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 34
+  controlID: 165
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -444,37 +444,87 @@ MonoBehaviour:
     treeChanges:
       assets:
         keys:
-        - 00000000000000004000000000000000
+        - 00000000000000001000000000000000
+        - da7751446d36c4f4ba6a887e2ff2c630
         values:
-        - path: ProjectSettings\ProjectSettings.asset
-          label: ProjectSettings.asset
-          level: 1
-          isFolder: 0
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
           isContainer: 0
           isCollapsed: 0
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
-            path: ProjectSettings\ProjectSettings.asset
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\ProjectSettings\ProjectSettings.asset
-            projectPath: ProjectSettings\ProjectSettings.asset
+            path: 
+            fullPath: 
+            projectPath: 
             originalPath: 
             indexStatus: 0
-            workTreeStatus: 3
+            workTreeStatus: 0
+        - path: Assets\animation
+          label: animation
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
       folders:
         keys:
+        - Assets
+        - Assets\animation
         - Library
-        - Library\Collab
-        - Library\gfu
-        - Library\gfu\cache
-        - Library\StateCache
-        - Library\StateCache\SceneView
-        - ProjectSettings
-        - Temp
         values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets\animation
+          label: animation
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
         - path: Library
           label: Library
           level: 0
@@ -484,133 +534,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\Collab
-          label: Collab
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\gfu
-          label: gfu
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\gfu\cache
-          label: cache
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\StateCache
-          label: StateCache
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\StateCache\SceneView
-          label: SceneView
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: ProjectSettings
-          label: ProjectSettings
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Temp
-          label: Temp
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -620,255 +544,8 @@ MonoBehaviour:
             indexStatus: 0
             workTreeStatus: 0
       checkedFileNodes:
-        keys:
-        - Library\ArtifactDB
-        - Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-        - Library\CurrentLayout-default.dwlt
-        - Library\EditorInstance.json
-        - Library\gfu\cache\gitlocks.yaml
-        - Library\gfu\cache\gitstatusentries.yaml
-        - Library\gfu\cache\gittrackingstatus.yaml
-        - Library\gfu\cache\repoinfo.yaml
-        - Library\shadercompiler-UnityShaderCompiler.exe0.log
-        - Library\SourceAssetDB
-        - Library\StateCache\SceneView\01f78f-mainStage.json
-        - ProjectSettings\ProjectSettings.asset
-        - Temp\UnityLockfile
-        values:
-        - path: Library\ArtifactDB
-          label: ArtifactDB
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\ArtifactDB
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\ArtifactDB
-            projectPath: Library\ArtifactDB
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-          label: CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-          level: 2
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-            projectPath: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\CurrentLayout-default.dwlt
-          label: CurrentLayout-default.dwlt
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\CurrentLayout-default.dwlt
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\CurrentLayout-default.dwlt
-            projectPath: Library\CurrentLayout-default.dwlt
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\EditorInstance.json
-          label: EditorInstance.json
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\EditorInstance.json
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\EditorInstance.json
-            projectPath: Library\EditorInstance.json
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Library\gfu\cache\gitlocks.yaml
-          label: gitlocks.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gitlocks.yaml
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlocks.yaml
-            projectPath: Library\gfu\cache\gitlocks.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\gitstatusentries.yaml
-          label: gitstatusentries.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gitstatusentries.yaml
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitstatusentries.yaml
-            projectPath: Library\gfu\cache\gitstatusentries.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\gittrackingstatus.yaml
-          label: gittrackingstatus.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gittrackingstatus.yaml
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gittrackingstatus.yaml
-            projectPath: Library\gfu\cache\gittrackingstatus.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\repoinfo.yaml
-          label: repoinfo.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\repoinfo.yaml
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\repoinfo.yaml
-            projectPath: Library\gfu\cache\repoinfo.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-          label: shadercompiler-UnityShaderCompiler.exe0.log
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\shadercompiler-UnityShaderCompiler.exe0.log
-            projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\SourceAssetDB
-          label: SourceAssetDB
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\SourceAssetDB
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\SourceAssetDB
-            projectPath: Library\SourceAssetDB
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\StateCache\SceneView\01f78f-mainStage.json
-          label: 01f78f-mainStage.json
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\StateCache\SceneView\01f78f-mainStage.json
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\StateCache\SceneView\01f78f-mainStage.json
-            projectPath: Library\StateCache\SceneView\01f78f-mainStage.json
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: ProjectSettings\ProjectSettings.asset
-          label: ProjectSettings.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: ProjectSettings\ProjectSettings.asset
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\ProjectSettings\ProjectSettings.asset
-            projectPath: ProjectSettings\ProjectSettings.asset
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Temp\UnityLockfile
-          label: UnityLockfile
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityLockfile
-            fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Temp\UnityLockfile
-            projectPath: Temp\UnityLockfile
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
+        keys: []
+        values: []
       title: 
       pathSeparator: \
       displayRootNode: 0
@@ -885,7 +562,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -894,6 +571,61 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets\animation
+        label: animation
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets\animation\New Animation.anim.meta
+        label: New Animation.anim.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\animation\New Animation.anim.meta
+          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\animation\New
+            Animation.anim.meta
+          projectPath: Assets\animation\New Animation.anim.meta
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
       - path: Library
         label: Library
         level: 0
@@ -903,7 +635,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -921,192 +653,12 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\ArtifactDB
           fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\ArtifactDB
           projectPath: Library\ArtifactDB
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\Collab
-        label: Collab
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-        label: CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-          projectPath: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\CurrentLayout-default.dwlt
-        label: CurrentLayout-default.dwlt
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\CurrentLayout-default.dwlt
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\CurrentLayout-default.dwlt
-          projectPath: Library\CurrentLayout-default.dwlt
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\EditorInstance.json
-        label: EditorInstance.json
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\EditorInstance.json
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\EditorInstance.json
-          projectPath: Library\EditorInstance.json
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\gfu
-        label: gfu
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\gfu\cache
-        label: cache
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\gfu\cache\gitlocks.yaml
-        label: gitlocks.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitlocks.yaml
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlocks.yaml
-          projectPath: Library\gfu\cache\gitlocks.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gitstatusentries.yaml
-        label: gitstatusentries.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitstatusentries.yaml
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitstatusentries.yaml
-          projectPath: Library\gfu\cache\gitstatusentries.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gittrackingstatus.yaml
-        label: gittrackingstatus.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gittrackingstatus.yaml
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gittrackingstatus.yaml
-          projectPath: Library\gfu\cache\gittrackingstatus.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\repoinfo.yaml
-        label: repoinfo.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\repoinfo.yaml
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\repoinfo.yaml
-          projectPath: Library\gfu\cache\repoinfo.yaml
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1119,7 +671,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -1137,7 +689,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\SourceAssetDB
@@ -1146,143 +698,17 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\StateCache
-        label: StateCache
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\SceneView
-        label: SceneView
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\SceneView\01f78f-mainStage.json
-        label: 01f78f-mainStage.json
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\StateCache\SceneView\01f78f-mainStage.json
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\StateCache\SceneView\01f78f-mainStage.json
-          projectPath: Library\StateCache\SceneView\01f78f-mainStage.json
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: ProjectSettings
-        label: ProjectSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: ProjectSettings\ProjectSettings.asset
-        label: ProjectSettings.asset
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: ProjectSettings\ProjectSettings.asset
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\ProjectSettings\ProjectSettings.asset
-          projectPath: ProjectSettings\ProjectSettings.asset
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Temp
-        label: Temp
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Temp\UnityLockfile
-        label: UnityLockfile
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityLockfile
-          fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Temp\UnityLockfile
-          projectPath: Temp\UnityLockfile
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       selectedNode:
-        path: ProjectSettings
-        label: ProjectSettings
+        path: 
+        label: 
         level: 0
-        isFolder: 1
+        isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
         isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
+        treeIsCheckable: 0
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1292,51 +718,16 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
+    - path: Assets\animation\New Animation.anim.meta
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\animation\New
+        Animation.anim.meta
+      projectPath: Assets\animation\New Animation.anim.meta
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
     - path: Library\ArtifactDB
       fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\ArtifactDB
       projectPath: Library\ArtifactDB
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-      projectPath: Library\Collab\CollabSnapshot_1e8b1104-145e-4b93-a824-809ea47d4175.txt
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\CurrentLayout-default.dwlt
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\CurrentLayout-default.dwlt
-      projectPath: Library\CurrentLayout-default.dwlt
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\EditorInstance.json
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\EditorInstance.json
-      projectPath: Library\EditorInstance.json
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\gfu\cache\gitlocks.yaml
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlocks.yaml
-      projectPath: Library\gfu\cache\gitlocks.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\gitstatusentries.yaml
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitstatusentries.yaml
-      projectPath: Library\gfu\cache\gitstatusentries.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\gittrackingstatus.yaml
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gittrackingstatus.yaml
-      projectPath: Library\gfu\cache\gittrackingstatus.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\repoinfo.yaml
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\repoinfo.yaml
-      projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1352,33 +743,15 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\StateCache\SceneView\01f78f-mainStage.json
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\StateCache\SceneView\01f78f-mainStage.json
-      projectPath: Library\StateCache\SceneView\01f78f-mainStage.json
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: ProjectSettings\ProjectSettings.asset
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\ProjectSettings\ProjectSettings.asset
-      projectPath: ProjectSettings\ProjectSettings.asset
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Temp\UnityLockfile
-      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Temp\UnityLockfile
-      projectPath: Temp\UnityLockfile
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    changedFilesText: 13 changed files
+    changedFilesText: 4 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2019-07-03T00:04:08.284+01:00
+      updatedTimeString: 2019-07-03T00:53:17.219+01:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2019-07-03T00:04:08.676+01:00
+      updatedTimeString: 2019-07-03T00:53:18.295+01:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2019-07-03T00:04:09.450+01:00
+      updatedTimeString: 2019-07-03T00:53:18.363+01:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -25283,13 +24656,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2019-07-03T00:04:08.284+01:00
+    updatedTimeString: 2019-07-03T00:53:17.219+01:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2019-07-03T00:04:08.747+01:00
+    updatedTimeString: 2019-07-03T00:53:18.351+01:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2019-07-03T00:04:08.676+01:00
+    updatedTimeString: 2019-07-03T00:53:18.295+01:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -25471,20 +24844,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Hand Painted Stone Texture/Material
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Hand Painted Stone Texture/Material
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\monac\quantum_defense\quantuum_defense
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 02330000
-    m_LastClickedID: 13058
-    m_ExpandedIDs: 00000000023300000433000006330000083300000a3300000c33000000ca9a3b
+    m_SelectedIDs: 1e330000
+    m_LastClickedID: 13086
+    m_ExpandedIDs: 00000000023300000433000006330000083300000a3300000c3300001c33000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -25539,7 +24912,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000000000074310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -25635,7 +25008,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 80fbffff82fbffff
+      m_ExpandedIDs: 82fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
