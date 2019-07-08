@@ -13,9 +13,119 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-07-05T20:36:29.469+01:00
+  lastUpdatedAtString: 2019-07-05T21:52:51.770+01:00
   initializedAtString: 2019-07-05T20:36:28.775+01:00
   log:
+  - commitID: 38e98efc1302fa044b0a1668e7986fb12084e362
+    mergeA: 
+    mergeB: 
+    authorName: martipello
+    authorEmail: martinseal1987@gmail.com
+    commitEmail: martinseal1987@gmail.com
+    commitName: martipello
+    summary: added spiral segment
+    description: 
+    timeString: 2019-07-05T21:52:21.000+01:00
+    commitTimeString: 2019-07-05T21:52:21.000+01:00
+    changes:
+    - path: Assets\main.unity
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\main.unity
+      projectPath: Assets\main.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\models\Assets\spiral_segment.fbx
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\models\Assets\spiral_segment.fbx
+      projectPath: Assets\models\Assets\spiral_segment.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\models\Assets\spiral_segment.fbx.meta
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\models\Assets\spiral_segment.fbx.meta
+      projectPath: Assets\models\Assets\spiral_segment.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\prefabs.meta
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\prefabs.meta
+      projectPath: Assets\prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\prefabs\spiral_segment 1.prefab
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\prefabs\spiral_segment
+        1.prefab
+      projectPath: Assets\prefabs\spiral_segment 1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\prefabs\spiral_segment 1.prefab.meta
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\prefabs\spiral_segment
+        1.prefab.meta
+      projectPath: Assets\prefabs\spiral_segment 1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\tower_demo_scene.unity
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\tower_demo_scene.unity
+      projectPath: Assets\tower_demo_scene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 5f41bf22d54dfb2f1e5b357706e7742370ad3543
     mergeA: 92a445ec4c9f70f563360ef3b7d8cc1fc7c2e719
     mergeB: 862d61bdcc80f4da72467899ee599a0bd97bc802
