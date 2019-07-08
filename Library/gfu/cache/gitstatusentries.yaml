@@ -13,35 +13,88 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-07-08T22:28:22.970+01:00
+  lastUpdatedAtString: 2019-07-08T23:50:09.997+01:00
   initializedAtString: 2019-07-03T01:29:03.299+01:00
   entries:
+  - path: Assets\demo.unity
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\demo.unity
+    projectPath: Assets\demo.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\demo.unity.meta
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\demo.unity.meta
+    projectPath: Assets\demo.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat
     fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Hand Painted
       Stone Texture\Material\Stone_floor wall 1.mat
     projectPath: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat.meta
-    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Hand Painted
-      Stone Texture\Material\Stone_floor wall 1.mat.meta
-    projectPath: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\main.unity
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\main.unity
+    projectPath: Assets\main.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\main.unity.meta
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\main.unity.meta
+    projectPath: Assets\main.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\demo.unity
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Scenes\demo.unity
+    projectPath: Assets\Scenes\demo.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\models\Assets\alpha_floor_tile.fbx
-    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\models\Assets\alpha_floor_tile.fbx
-    projectPath: Assets\models\Assets\alpha_floor_tile.fbx
+  - path: Assets\Scenes\demo.unity.meta
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Scenes\demo.unity.meta
+    projectPath: Assets\Scenes\demo.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\models\Assets\alpha_floor_tile.fbx.meta
-    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\models\Assets\alpha_floor_tile.fbx.meta
-    projectPath: Assets\models\Assets\alpha_floor_tile.fbx.meta
+  - path: Assets\Scenes\main.unity
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Scenes\main.unity
+    projectPath: Assets\Scenes\main.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Scenes\main.unity.meta
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Scenes\main.unity.meta
+    projectPath: Assets\Scenes\main.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\tower_demo_scene.unity
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Scenes\tower_demo_scene.unity
+    projectPath: Assets\Scenes\tower_demo_scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\tower_demo_scene.unity.meta
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Scenes\tower_demo_scene.unity.meta
+    projectPath: Assets\Scenes\tower_demo_scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\tower_demo_scene.unity
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\tower_demo_scene.unity
+    projectPath: Assets\tower_demo_scene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\tower_demo_scene.unity.meta
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\tower_demo_scene.unity.meta
+    projectPath: Assets\tower_demo_scene.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -78,9 +131,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

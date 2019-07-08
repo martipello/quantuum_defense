@@ -13,9 +13,95 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-07-05T21:52:51.770+01:00
+  lastUpdatedAtString: 2019-07-08T23:18:19.312+01:00
   initializedAtString: 2019-07-05T20:36:28.775+01:00
   log:
+  - commitID: 7ce1feea14e68743c7609ac72347a6151a24cde9
+    mergeA: 
+    mergeB: 
+    authorName: martipello
+    authorEmail: martinseal1987@gmail.com
+    commitEmail: martinseal1987@gmail.com
+    commitName: martipello
+    summary: segment alpha
+    description: 
+    timeString: 2019-07-08T23:17:40.000+01:00
+    commitTimeString: 2019-07-08T23:17:40.000+01:00
+    changes:
+    - path: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Hand Painted
+        Stone Texture\Material\Stone_floor wall 1.mat
+      projectPath: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat.meta
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\Hand Painted
+        Stone Texture\Material\Stone_floor wall 1.mat.meta
+      projectPath: Assets\Hand Painted Stone Texture\Material\Stone_floor wall 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\models\Assets\alpha_floor_tile.fbx
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\models\Assets\alpha_floor_tile.fbx
+      projectPath: Assets\models\Assets\alpha_floor_tile.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\models\Assets\alpha_floor_tile.fbx.meta
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Assets\models\Assets\alpha_floor_tile.fbx.meta
+      projectPath: Assets\models\Assets\alpha_floor_tile.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\monac\quantum_defense\quantuum_defense\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 38e98efc1302fa044b0a1668e7986fb12084e362
     mergeA: 
     mergeB: 
